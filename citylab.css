@@ -1,8 +1,0 @@
-/* needs to be !important to override inline style */
-.c-action-bar,
-.c-article-most-popular,
-.c-ballyhoos,
-.c-newsletter--promo,
-aside.c-related-content {
-	display: none !important;
-}

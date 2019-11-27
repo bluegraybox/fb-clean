@@ -1,5 +1,6 @@
-# Screen Clean
+# FB Clean
 
-This is a Chrome browser extension to hide ads and otherwise tidy up web sites.
-It applies custom CSS (and sometimes Javascript) to specified web sites.
-See [manifest](manifest.json) for details.
+This is a Chrome browser extension to make Facebook less cluttered.
+
+It adds vertical space between posts to make it easier to see where they start and end.
+It also hides the comments for each post and adds a "Show/Hide" button to reveal them.
