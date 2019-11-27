@@ -2,10 +2,10 @@
 
 Clone this repository
 ```
-git clone https://github.com/bluegraybox/screen-clean.git
+git clone https://github.com/bluegraybox/fb-clean.git
 ```
 
-Or [download it as a zip file](https://github.com/bluegraybox/screen-clean/archive/master.zip) and unzip it.
+Or [download it as a zip file](https://github.com/bluegraybox/fb-clean/archive/master.zip) and unzip it.
 
 Open the [Chrome extension manager](chrome://extensions/).
 
