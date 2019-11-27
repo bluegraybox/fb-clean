@@ -7,7 +7,7 @@ git clone https://github.com/bluegraybox/fb-clean.git
 
 Or [download it as a zip file](https://github.com/bluegraybox/fb-clean/archive/master.zip) and unzip it.
 
-Open the [Chrome extension manager](chrome://extensions/).
+Open a new Chrome window and enter `chrome://extensions/`.
 
 Turn on Developer Mode by clicking the button in the upper right.
 
