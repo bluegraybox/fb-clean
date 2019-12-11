@@ -11,6 +11,12 @@
 			"run_at": "document_end",
 			"css": ["facebook.css"],
 			"js": ["facebook.js"]
+		},
+		{
+			"matches": ["https://*.mewe.com/*"],
+			"run_at": "document_end",
+			"css": ["mewe.css"],
+			"js": ["mewe.js"]
 		}
 	]
 }
